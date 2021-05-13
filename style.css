@@ -1,0 +1,28 @@
+body {
+    background-color: aquamarine;
+    text-align: center
+}
+
+div {
+    margin-top: 15;
+}
+
+#1 {
+    height: 100px;
+    width: 100px;
+}
+
+#2 {
+    height: 100px;
+    width: 100px;
+}
+
+#3 {
+    height: 100px;
+    width: 100px;
+}
+
+#4 {
+    height: 100px;
+    width: 100px;
+}
